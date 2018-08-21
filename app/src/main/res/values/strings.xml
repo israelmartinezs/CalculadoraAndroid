@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculadoraAndroid</string>
+    <string name="txt_View_String">calculadora</string>
+    <string name="txt_numeroUno_String">primer numero</string>
+    <string name="txt_numeroDos_String">segundo numero</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="boton">Ala marcha!!!</string>
+    <string name="rBSumar">sumar</string>
+    <string name="rBRestar">restar</string>
+    <string name="android_boton_description">boton para pasar a otro activity</string>
+    <string name="segundoTextView">Segundo Activity</string>
+    <string name="botonRegresar">Regresar</string>
+    <string name="txt_nombre_Archivo">Nombre Del Archivo</string>
+    <string name="boton_Guardar">Guardar</string>
+    <string name="boton_Consultar">Consultar</string>
+</resources>
